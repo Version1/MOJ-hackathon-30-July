@@ -9,4 +9,4 @@ Welcome to the MOJ Hackathon! This is an opportunity for you to develop and hone
 ## Judging
 
 ## Issues?
-- [Setting-up.md](setting-up.md)
+- [Setting-up.md](Setting-up.md)

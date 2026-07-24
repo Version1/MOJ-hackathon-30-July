@@ -16,13 +16,13 @@ You need:
 
 **In VS Code:**
 
-1. Install the GitHub Copilot extension from the VS Code marketplace.
+1. Install the GitHub Copilot extension from the VS Code marketplace/Extentions tab located on left menu pane.
 2. Sign in using your GitHub account.
 3. Check the status bar to confirm Copilot is enabled.
 
 **In a JetBrains IDE** (IntelliJ IDEA, PyCharm, and similar):
 
-1. Install the GitHub Copilot plugin from JetBrains Marketplace.
+1. Install the GitHub Copilot plugin from JetBrains Marketplace/ settings (located under IDEA next to File) > Plugins.
 2. Sign in using your GitHub account.
 3. Enable the plugin for your current project.
 

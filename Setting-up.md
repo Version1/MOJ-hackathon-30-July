@@ -40,12 +40,12 @@ Treat every suggestion like a junior developer's first draft. Read it before you
 
 Copilot lets you pick which AI model does the work. Included models cost nothing. Premium models cost credits, charged per message you send, not per file Copilot reads or command it runs.
 
-| Task type | Recommended model | Cost |
-|---|---|---|
-| Writing functions, tests, refactoring, documentation, debugging | GPT-5 mini | Free |
-| Complex business logic the included model can't handle well | Claude Sonnet 4.6 | 1x credits per message |
-| Complex problem-solving and architecture decisions | Claude Opus 4.6 | 3x credits per message |
-| Long, many-step agentic tasks needing precision | Claude Opus 4.7 | 15x credits per message |
+| Task type | Recommended model|
+|---|---|
+| Writing functions, tests, refactoring, documentation, debugging | GPT-5 mini | 
+| Complex business logic the included model can't handle well | Claude Sonnet 4.6 |
+| Complex problem-solving and architecture decisions | Claude Opus 4.6 |
+| Long, many-step agentic tasks needing precision | Claude Opus 4.7 |
 
 Start with the included model every time. Only move to a premium model when the included one genuinely falls short. If you pick "Auto", Copilot will never choose a high-cost model on your behalf, and it switches to a free model automatically once your allowance runs out.
 

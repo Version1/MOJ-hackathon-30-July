@@ -54,11 +54,9 @@ Projects will be scored on a scale of **1–5** for each criterion, where:
 
 | Criteria | What we're looking for | Weight |
 | --- | --- | :---: |
-| **Idea / Creativity** | Original and innovative approach to the problem | 20% |
-| **Visual Design** | Quality of the user interface, layout, and overall polish | 20% |
-| **Usability** | Intuitive, user-friendly experience with minimal friction | 25% |
-| **HMPPS UX Fit** | Alignment with service design patterns and accessibility standards | 15% |
-| **MVP / Execution** | A demonstrable solution that solves the problem within scope | 20% |
+| **Usability** | Intuitive, user-friendly experience with minimal friction | 1/3 |
+| **HMPPS UX Fit** | Alignment with service design patterns and accessibility standards | 1/3 |
+| **MVP / Execution** | A demonstrable solution that solves the problem within scope | 1/3 |
  
 > **What we're really evaluating:** does the solution feel usable, look considered, and clearly solve the problem — as a working MVP, not a finished product.
 
